@@ -1,0 +1,2 @@
+reimplementation of paper: MITIGATING MEMORIZATION OF NOISY LABELS VIA REGULARIZATION BETWEEN REPRESENTATIONS
+fix the bug in loss function simcse
